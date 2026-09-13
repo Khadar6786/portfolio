@@ -39,15 +39,20 @@ export default function Projects() {
                 </h3>
               </div>
 
-              <span className="font-mono text-xs text-text-muted">
-                01
-              </span>
+              <span className="font-mono text-xs text-text-muted">01</span>
             </div>
 
             <p className="mt-5 max-w-2xl text-base leading-7 text-text-secondary">
-              A B2B web application for recyclable material sourcing,
-              processing, trading, and supply, designed to provide a
-              professional digital presence for the business.
+              A responsive B2B web application for recyclable material
+              sourcing, processing, trading, and supply, with business
+              enquiry workflows for potential suppliers and customers.
+            </p>
+
+            <p className="mt-4 max-w-2xl text-base leading-7 text-text-secondary">
+              Built reusable Next.js and React components with a server-side
+              business enquiry API, Resend email integration, input
+              validation, HTML escaping, and error handling, then deployed
+              the application on Vercel.
             </p>
 
             <div className="mt-6 flex flex-wrap gap-x-4 gap-y-2">
@@ -94,7 +99,7 @@ export default function Projects() {
             <div className="flex items-start justify-between gap-6">
               <div>
                 <p className="font-mono text-xs tracking-wide text-text-muted">
-                  MINI PROJECT · BACKEND
+                  BACKEND
                 </p>
 
                 <h3 className="mt-3 text-2xl font-semibold tracking-tight text-text-primary">
@@ -102,19 +107,24 @@ export default function Projects() {
                 </h3>
               </div>
 
-              <span className="font-mono text-xs text-text-muted">
-                02
-              </span>
+              <span className="font-mono text-xs text-text-muted">02</span>
             </div>
 
             <p className="mt-5 max-w-2xl text-base leading-7 text-text-secondary">
-              A backend-focused application exploring user authentication,
-              authorization, REST APIs, JWT-based security, and
-              role-based access control.
+              A backend-focused authentication and authorization system with
+              REST APIs for user registration and login, secure credential
+              handling, role-based access control, Google OAuth2 login,
+              validation, and structured error handling.
+            </p>
+
+            <p className="mt-4 max-w-2xl text-base leading-7 text-text-secondary">
+              Built using a layered Controller-Service-Repository structure
+              with Spring Data JPA and MySQL, with BCrypt password hashing and
+              Spring Security for authentication and authorization.
             </p>
 
             <p className="mt-5 font-mono text-xs leading-6 text-text-muted">
-              Java · Spring Boot · Spring Security · JWT · MySQL
+              Java · Spring Boot · Spring Security · Spring Data JPA · MySQL
             </p>
 
             <div className="mt-7">
@@ -134,7 +144,7 @@ export default function Projects() {
             <div className="flex items-start justify-between gap-6">
               <div>
                 <p className="font-mono text-xs tracking-wide text-text-muted">
-                  MINI PROJECT · CLOUD
+                  CLOUD
                 </p>
 
                 <h3 className="mt-3 text-2xl font-semibold tracking-tight text-text-primary">
@@ -142,19 +152,22 @@ export default function Projects() {
                 </h3>
               </div>
 
-              <span className="font-mono text-xs text-text-muted">
-                03
-              </span>
+              <span className="font-mono text-xs text-text-muted">03</span>
             </div>
 
             <p className="mt-5 max-w-2xl text-base leading-7 text-text-secondary">
-              A cloud-based file storage application focused on
-              authentication, file management, and object storage using
-              Amazon S3.
+              A Spring Boot cloud storage application with a responsive
+              drag-and-drop interface for uploading files to Amazon S3.
+            </p>
+
+            <p className="mt-4 max-w-2xl text-base leading-7 text-text-secondary">
+              Implemented a REST upload endpoint and S3 service integration,
+              with AWS IAM permissions for object storage operations and
+              environment-based configuration.
             </p>
 
             <p className="mt-5 font-mono text-xs leading-6 text-text-muted">
-              React · Node.js · Express · AWS S3 · IAM · JWT
+              Java · Spring Boot · AWS S3 · IAM
             </p>
 
             <div className="mt-7">

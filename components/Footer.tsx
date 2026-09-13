@@ -7,7 +7,7 @@ export default function Footer() {
         </p>
 
         <p className="font-mono text-xs text-text-muted">
-          Backend · Full-Stack · AI
+          Backend · Full-Stack
         </p>
       </div>
     </footer>

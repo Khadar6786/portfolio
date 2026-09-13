@@ -13,7 +13,8 @@ export default function Contact() {
 
           <p className="mt-6 max-w-xl text-base leading-8 text-text-secondary">
             I&apos;m open to software engineering opportunities, internships,
-            and interesting projects involving backend, full-stack, and AI.
+            and interesting projects involving backend and full-stack
+            development.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-4">

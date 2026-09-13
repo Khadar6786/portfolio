@@ -17,12 +17,11 @@ export default function Hero() {
             <br />
             Full-Stack
             <br />
-            <span className="text-accent">AI</span>
+            <span className="text-accent">Engineer</span>
           </h1>
 
           <p className="mt-6 max-w-xl text-lg leading-8 text-text-secondary">
-            I build reliable backend systems, full-stack applications,
-            and AI-powered solutions.
+            I build reliable backend systems and full-stack applications, with a growing focus on AI-integrated software.
           </p>
 
           {/* Availability */}
@@ -98,7 +97,7 @@ export default function Hero() {
                 </span>
 
                 <span className="font-mono text-sm text-text-primary">
-                  TypeScript / React
+                  TypeScript / React / Next.js
                 </span>
               </div>
 
@@ -110,7 +109,7 @@ export default function Hero() {
                 </span>
 
                 <span className="font-mono text-sm text-text-primary">
-                  AWS
+                  AWS / Vercel
                 </span>
               </div>
 
@@ -118,11 +117,11 @@ export default function Hero() {
 
               <div className="flex items-center justify-between gap-6">
                 <span className="font-mono text-sm text-text-secondary">
-                  AI
+                  Database
                 </span>
 
                 <span className="font-mono text-sm text-text-primary">
-                  Python / GenAI
+                  MySQL / SQL
                 </span>
               </div>
             </div>

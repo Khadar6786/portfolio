@@ -18,8 +18,8 @@ export default function About() {
 
           <p className="mt-6 max-w-2xl text-base leading-8 text-text-secondary">
             I&apos;m an Integrated M.Tech Computer Science and Engineering
-            student at VIT-AP University, focused on backend development,
-            full-stack applications, and AI-powered solutions.
+            student at VIT-AP University, focused on backend development and
+            full-stack applications.
           </p>
 
           <p className="mt-5 max-w-2xl text-base leading-8 text-text-secondary">
@@ -31,18 +31,22 @@ export default function About() {
 
           <div className="mt-12 grid gap-8 border-t border-border pt-8 sm:grid-cols-2">
             <div>
-              <p className="font-mono text-xs text-text-muted">PRIMARY FOCUS</p>
+              <p className="font-mono text-xs text-text-muted">
+                PRIMARY FOCUS
+              </p>
 
               <p className="mt-2 text-sm text-text-primary">
-                Backend · Full-Stack · AI
+                Backend · Full-Stack
               </p>
             </div>
 
             <div>
-              <p className="font-mono text-xs text-text-muted">CURRENT STACK</p>
+              <p className="font-mono text-xs text-text-muted">
+                CURRENT DIRECTION
+              </p>
 
               <p className="mt-2 text-sm text-text-primary">
-                Java · Spring Boot · React · Next.js
+                Backend · Full-Stack · AI Integration
               </p>
             </div>
           </div>

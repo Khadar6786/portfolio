@@ -25,7 +25,7 @@ export default function Experience() {
                 </p>
 
                 <h3 className="mt-3 text-2xl font-semibold tracking-tight text-text-primary md:text-3xl">
-                  Intern-Technology
+                  Intern — Technology
                 </h3>
 
                 <p className="mt-2 text-text-secondary">
@@ -39,8 +39,10 @@ export default function Experience() {
             </div>
 
             <p className="mt-5 max-w-2xl text-base leading-7 text-text-secondary">
-              Technology internship within the Delivery department, with a
-              Core Tech Java designation.
+              Technology internship in the Core Tech Java track within the
+              Delivery department, focused on gaining hands-on exposure to
+              Java-based software development and professional engineering
+              workflows.
             </p>
 
             <div className="mt-6 flex flex-wrap gap-x-5 gap-y-2">

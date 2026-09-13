@@ -21,6 +21,10 @@ export default function Education() {
                 <p className="mt-2 text-sm text-text-muted">
                   VIT-AP University
                 </p>
+
+                <p className="mt-2 font-mono text-xs text-text-muted">
+                  CGPA: 8.67 / 10
+                </p>
               </div>
 
               <span className="font-mono text-xs text-text-muted">

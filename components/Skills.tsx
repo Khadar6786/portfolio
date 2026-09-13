@@ -7,7 +7,7 @@ export default function Skills() {
 
           <p className="mt-4 max-w-xs text-sm leading-6 text-text-muted">
             Technologies I use across backend systems, full-stack applications,
-            cloud infrastructure, and AI.
+            databases, cloud infrastructure, and software development.
           </p>
         </div>
 
@@ -19,7 +19,7 @@ export default function Skills() {
               </h3>
 
               <p className="mt-3 text-sm leading-7 text-text-secondary">
-                Java · Spring Boot · Spring Security · REST APIs · JWT
+                Java · Spring Boot · Spring Data JPA · REST APIs
               </p>
             </div>
 
@@ -49,17 +49,18 @@ export default function Skills() {
               </h3>
 
               <p className="mt-3 text-sm leading-7 text-text-secondary">
-                MySQL · MongoDB · AWS · S3 · IAM
+                MySQL · SQL · AWS · S3 · IAM
               </p>
             </div>
 
             <div className="border-t border-border pt-5">
               <h3 className="text-sm font-medium text-text-primary">
-                AI / ML
+                Security
               </h3>
 
               <p className="mt-3 text-sm leading-7 text-text-secondary">
-                Machine Learning · Deep Learning · GenAI
+                Authentication · Authorization · RBAC · BCrypt · Input
+                Validation
               </p>
             </div>
 
@@ -69,7 +70,7 @@ export default function Skills() {
               </h3>
 
               <p className="mt-3 text-sm leading-7 text-text-secondary">
-                Git · GitHub · VS Code · Vercel
+                Git · GitHub · Maven · Vercel
               </p>
             </div>
           </div>
